@@ -2,24 +2,6 @@
 
 This project is designed to predict whether a person will be safe from sinking in a water-related incident based on their socio-economic status, age, gender, and other factors. It uses a machine learning model, specifically a Random Forest Classifier, to make these predictions.
 
-**Table of Contents**
-
-**Getting Started**
-
-**Prerequisites**
-
-**Installation**
-
-**dataset**
-
-**Model Training**
-
-**Prediction**
-
-**Contributing**
-
-**License**
-
 *Getting Started*
 
 These instructions will guide you on setting up and running the predictive system in your environment.
