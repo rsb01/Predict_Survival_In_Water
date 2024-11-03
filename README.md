@@ -15,8 +15,7 @@ scikit-learn
 
 *You can install the required libraries using pip:*
 
-bash
-Copy code
+
 pip install pandas scikit-learn
 Installation
 
